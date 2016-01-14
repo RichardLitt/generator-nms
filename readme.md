@@ -1,10 +1,10 @@
-# generator-nm [![Build Status](https://travis-ci.org/sindresorhus/generator-nm.svg?branch=master)](https://travis-ci.org/sindresorhus/generator-nm)
+# generator-nms [![Build Status](https://travis-ci.org/RichardLitt/generator-nms.svg?branch=master)](https://travis-ci.org/RichardLitt/generator-nms)
 
 > Scaffold out a node module using standard
 
 Optionally with a [CLI](http://en.wikipedia.org/wiki/Command-line_interface).
 
-This is what I use for [my own modules](https://www.npmjs.com/~RichardLitt). It is based heavily on [sindresorhus/generator-nm](//github.com/sindresorhus/generator-nm). The differences are:
+This is what I use for [my own modules](https://www.npmjs.com/~richardlitt). It is based heavily on [sindresorhus/generator-nm](//github.com/sindresorhus/generator-nm). The differences are:
 
  - I use [standard](//github.com/feross/standard) instead of [xo](https://github.com/sindresorhus/xo);
  - I removed the .editorconfig file because I never use it;
