@@ -1,6 +1,6 @@
 {
   "name": "generator-nms",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Scaffold out a node module using standard",
   "license": "MIT",
   "repository": "RichardLitt/generator-nms",
