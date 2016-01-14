@@ -4,7 +4,14 @@
 
 Optionally with a [CLI](http://en.wikipedia.org/wiki/Command-line_interface).
 
-This is what I use for [my own modules](https://www.npmjs.com/~RichardLitt). It is based heavily on [sindresorhus/generator-nm](//github.com/sindresorhus/generator-nm).
+This is what I use for [my own modules](https://www.npmjs.com/~RichardLitt). It is based heavily on [sindresorhus/generator-nm](//github.com/sindresorhus/generator-nm). The differences are:
+
+ - I use [standard](//github.com/feross/standard) instead of [xo];
+ - I removed the .editorconfig file because I never use it;
+ - I made the description part of the initial setup instead of using [superb];
+ - I added a `lint` command to the package.json.
+
+I expect that there will be more differences in the future.
 
 ![](screenshot.png)
 
