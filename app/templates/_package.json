@@ -34,7 +34,7 @@
     "xo": "^0.12.1"
   },
   "standard": {
-    "ignores": [
+    "ignore": [
       "test.js"
     ]
   }
