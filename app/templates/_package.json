@@ -30,8 +30,7 @@
     "meow": "^3.6.0"
   <% } %>},
   "devDependencies": {
-    "standard": "^5.4.1",
-    "xo": "^0.12.1"
+    "standard": "^5.4.1"
   },
   "standard": {
     "ignore": [
