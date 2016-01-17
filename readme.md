@@ -1,6 +1,6 @@
 # generator-nms [![Build Status](https://travis-ci.org/RichardLitt/generator-nms.svg?branch=master)](https://travis-ci.org/RichardLitt/generator-nms)
 
-> Scaffold out a node module using standard
+> Scaffold out a minimal node module using standard and ava
 
 Optionally with a [CLI](http://en.wikipedia.org/wiki/Command-line_interface).
 
