@@ -4,6 +4,8 @@
   "description": "<%= description %>",
   "license": "MIT",
   "repository": "<%= githubUsername %>/<%= moduleName %>",
+  "homepage": "https://github.com/<%= githubUsername %>/<%= moduleName %>",
+  "bugs": "https://github.com/<%= githubUsername %>/<%= moduleName %>/issues"
   "author": {
     "name": "<%= name %>",
     "email": "<%= email %>",
