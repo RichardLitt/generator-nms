@@ -18,9 +18,6 @@
     "lint": "standard",
     "test": "standard && ava"
   },
-  "files": [
-    "app"
-  ],
   "keywords": [
     "yeoman-generator",
     "plugin",

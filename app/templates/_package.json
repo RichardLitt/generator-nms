@@ -19,10 +19,6 @@
   	"lint": "standard",
     "test": "standard && ava"
   },
-  "files": [
-    "index.js"<% if (cli) { %>,
-    "cli.js"<% } %>
-  ],
   "keywords": [<% if (cli) { %>
     "cli-app",
     "cli",<% } %>
