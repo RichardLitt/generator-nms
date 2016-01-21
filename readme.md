@@ -22,7 +22,6 @@ I expect that there will be more differences in the future.
 $ npm install --global generator-nms
 ```
 
-
 ## Usage
 
 With [yo](https://github.com/yeoman/yo):
@@ -30,6 +29,10 @@ With [yo](https://github.com/yeoman/yo):
 ```
 $ yo nms
 ```
+
+### Travis
+
+Note that this adds a `.travis.yml`, but doesn't enable it. To do this, I would suggest installing the [Travis CLI](https://github.com/travis-ci/travis.rb#installation), and then running `travis enable` in the repo after running `yo nms`.
 
 
 ## Tip
