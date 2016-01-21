@@ -1,6 +1,6 @@
 {
   "name": "generator-nms",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Scaffold out a node module using standard",
   "license": "MIT",
   "repository": {
@@ -50,5 +50,9 @@
     "ignore": [
       "app/templates/"
     ]
-  }
+  },
+  "coordinates": [
+    78.22317220000001,
+    15.626723
+  ]
 }
