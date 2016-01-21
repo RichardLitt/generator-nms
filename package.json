@@ -3,7 +3,10 @@
   "version": "0.0.10",
   "description": "Scaffold out a node module using standard",
   "license": "MIT",
-  "repository": "RichardLitt/generator-nms",
+  "repository":  "repository": {
+    "type": "git",
+    "url": "https://github.com/RichardLitt/generator-nms.git"
+  },
   "homepage": "https://github.com/RichardLitt/generator-nms",
   "bugs": "https://github.com/RichardLitt/generator-nms/issues",
   "author": {
