@@ -19,7 +19,8 @@
   	"lint": "standard",
     "test": "standard && ava"
   },
-  "keywords": [<% if (cli) { %>
+  "keywords": [<% for(var i=0; i<keywords.length; i++) {%>
+    "<%= keywords[i] %>",<% } %><% if (cli) { %>
     "cli-app",
     "cli",<% } %>
     ""

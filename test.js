@@ -17,6 +17,7 @@ test.serial('generates expected files', async () => {
     githubUsername: 'test',
     website: 'test.com',
     description: 'test',
+    keywords: 'test test',
     cli: false
   })
 
@@ -43,6 +44,7 @@ test.serial('CLI option', async () => {
     githubUsername: 'test',
     website: 'test.com',
     description: 'test',
+    keywords: 'test test',
     cli: true
   })
 

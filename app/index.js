@@ -31,6 +31,10 @@ module.exports = yeoman.Base.extend({
       store: true,
       validate: x => x.length > 0 ? true : 'You have to provide a module description'
     }, {
+      name: 'keywords',
+      message: 'What keywords describe this module?',
+      store: true
+    }, {
       name: 'cli',
       message: 'Do you need a CLI?',
       type: 'confirm',
@@ -45,6 +49,7 @@ module.exports = yeoman.Base.extend({
         website: props.website,
         humanizedWebsite: humanizeUrl(props.website),
         description: props.description,
+        keywords: props.keywords.split(' ').filter(item => { if (item !== '') return item }),
         cli: props.cli
       }
 
