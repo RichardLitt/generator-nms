@@ -15,9 +15,6 @@
     "url": "<%= humanizedWebsite %>"
   },<% if (cli) { %>
   "bin": "cli.js",<% } %>
-  "engines": {
-    "node": ">=0.10.0"
-  },
   "scripts": {
   	"lint": "standard",
     "test": "standard && ava"
