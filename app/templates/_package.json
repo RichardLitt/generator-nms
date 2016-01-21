@@ -8,7 +8,7 @@
     "url": "https://github.com/<%= githubUsername %>/<%= moduleName %>.git"
   },
   "homepage": "https://github.com/<%= githubUsername %>/<%= moduleName %>",
-  "bugs": "https://github.com/<%= githubUsername %>/<%= moduleName %>/issues"
+  "bugs": "https://github.com/<%= githubUsername %>/<%= moduleName %>/issues",
   "author": {
     "name": "<%= name %>",
     "email": "<%= email %>",
