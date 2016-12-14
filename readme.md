@@ -1,4 +1,7 @@
-# generator-nms [![Build Status](https://travis-ci.org/RichardLitt/generator-nms.svg?branch=master)](https://travis-ci.org/RichardLitt/generator-nms)
+# generator-nms
+
+[![Build Status](https://travis-ci.org/RichardLitt/generator-nms.svg?branch=master)](https://travis-ci.org/RichardLitt/generator-nms)
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > Scaffold out a minimal node module using standard and ava
 
@@ -10,6 +13,7 @@ This is what I use for [my own modules](https://www.npmjs.com/~richardlitt). It 
  - I removed the .editorconfig file because I never use it;
  - I made the description part of the initial setup instead of using [superb](https://github.com/sindresorhus/superb);
  - I added a `lint` command to the package.json.
+ - I use [standard-readme](https://github.com/RichardLitt/standard-readme).
 
 I expect that there will be more differences in the future.
 
@@ -39,6 +43,9 @@ Note that this adds a `.travis.yml`, but doesn't enable it. To do this, I would 
 
 Use [chalk](https://github.com/sindresorhus/chalk) if you want colors in your CLI.
 
+## Contribute
+
+PRs and [issues](https://github.com/RichardLitt/generator-nms/issues) gladly accepted.
 
 ## License
 
