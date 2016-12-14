@@ -16,8 +16,8 @@ var cli = meow([`
     unicorns & rainbows
     $ <%= moduleName %> ponies
     ponies & rainbows
-`, {
+`], {
   alias: {}
-}])
+})
 
 <%= camelModuleName %>(cli.input[0], cli.flags)
