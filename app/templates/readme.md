@@ -68,4 +68,4 @@ PRs accepted. Check out the [issues](https://github.com/<%= githubUsername %>/<%
 
 ## License
 
-MIT © [<%= name %>](<%= website %>)
+[MIT](LICENSE) © [<%= name %>](<%= website %>)
