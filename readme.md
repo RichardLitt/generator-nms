@@ -1,5 +1,7 @@
 # generator-nms
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/generator-nms.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/RichardLitt/generator-nms.svg?branch=master)](https://travis-ci.org/RichardLitt/generator-nms)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
